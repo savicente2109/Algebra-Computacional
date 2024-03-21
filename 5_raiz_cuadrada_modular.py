@@ -1,7 +1,5 @@
 # %% [markdown]
 # #ENTREGA 5
-# 
-# Marta Vicente Navarro y Sara Vicente Arroyo
 
 # %% [markdown]
 # ## Funciones auxiliares
